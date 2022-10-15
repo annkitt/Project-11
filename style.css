@@ -39,7 +39,17 @@ body {
     cursor: pointer;
     font-size: 15px;
 }
-
+@media screen and (max-width:1150px)  {
+    .logo img{
+        width: 100px;
+        margin-left: -80px;
+    }
+} 
+@media screen and (max-width:1030px)  {
+    .logo img{
+       display: none;
+    }
+} 
 
 .home{
     display: flex;
