@@ -7,7 +7,7 @@
 ![Html ,Css](https://img.shields.io/badge/html-%20Css-yellowgreen)
 ![Hitesh Choudhary](https://img.shields.io/badge/Hitesh-Choudhary-lightgrey)
 
-## Project 11 [Live link]()
+## Project 11 [Live link](https://hostingpagee.netlify.app/)
 
 - Skills Gained in this project 
     - Learned to create linear gradient border using **::before** pseudo element.
@@ -20,9 +20,3 @@
 
 ### ScreenShot
 ![Desktop](./Screenshot/11.png) 
-![Desktop](./Screenshot/11se.png)
-![Desktop](./Screenshot/11t.png)
-![Desktop](./Screenshot/11f.png)
-![Desktop](./Screenshot/11fi.png)
-![Desktop](./Screenshot/11s.png)
-![Desktop](./Screenshot/11sv.png)
